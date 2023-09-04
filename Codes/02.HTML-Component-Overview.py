@@ -3,13 +3,13 @@ from dash import Dash, html
 app = Dash()
 
 app.layout = html.Div([
-    html.H1('World Happenes Dashboard'),
+    html.H1('World Happiness Dashboard'),
     html.P([
-        'This Dashboard shows the happines score',
+        'This Dashboard shows the happiness score',
         html.Br(),
         html.A(
             'World Happiness Report Data Source',
-            href='http://google.com',
+            href='https://worldhappiness.report',
             target='_blank'
 
         )
