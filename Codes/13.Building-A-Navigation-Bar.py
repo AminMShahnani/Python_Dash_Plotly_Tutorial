@@ -1,6 +1,8 @@
 from dash import Dash, html
 import dash_bootstrap_components as dbc
 
+app=Dash(external_scripts=[dbc.themes.BOOTSTRAP])
+
 navbar=dbc.Navbar(
     children=[
         html.Img(
@@ -9,17 +11,16 @@ navbar=dbc.Navbar(
         ),
         html.A(
             'Data Source',
-            href='https//sofifa.com',
+            href='https://sofifa.com',
             target='_blank',
             style={'color':'black'}
         )
     ],
-    color='primary',
+    color='secondary',
 
 )
 
 
-app=Dash(external_scripts=[dbc.themes.BOOTSTRAP])
 
 app.layout=html.Div(navbar)
 
