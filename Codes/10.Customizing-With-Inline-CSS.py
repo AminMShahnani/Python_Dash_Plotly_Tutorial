@@ -6,7 +6,7 @@ soccer=pd.read_csv('../CSV_Files/fifasoccerplayers.csv')
 app=Dash()
 
 app.layout=html.Div([
-    html.H1('Soccer Players dashboard', 
+    html.H1('Soccer Players Dashboard', 
             style={'textAlign' : 'center',
                    'fontFamily': 'fantasy',
                    'fontSize': 50,
