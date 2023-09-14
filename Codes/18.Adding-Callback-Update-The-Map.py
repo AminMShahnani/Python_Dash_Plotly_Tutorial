@@ -43,7 +43,7 @@ def update_map_graph(selected_years):
                             locationmode='USA-states',
                             color='Residential Price',
                             scope='usa',
-                            color_continuous_midpoint=5)
+                            color_continuous_midpoint=1)
     return map_fig
 
 
