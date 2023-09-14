@@ -1,2 +1,26 @@
-# Python_Dash_Plotly_Tutorial
- Dash Plotly tutorial
+# Python Dash Plotly Tutorial
+ <ul>
+    <li>01.Creating-Your-First-Dashboard</li>
+    <li>02.HTML-Component-Overview/li>
+    <li>03.Core-Component-Overview</li>
+    <li>04.Building-Callbacks-With-Single-Input-Output</li>
+    <li>05.Building-Callbacks-With-Single-Input-Output-Refactor</li>
+    <li>06.Creating-Interactive-Plotly-Dashboard</li>
+    <li>07.Building-Callbacks-With-Multiple-Input-Output</li>
+    <li>08.Chaining-Callbacks-Inputs-and-Outputs</li>
+    <li>09-Controlling-Callbacks-With-States-Button</li>
+    <li>10.Customizing-With-Inline-CSS</li>
+    <li>11.Customizing-With-External-CSS</li>
+    <li>12.Creating-A-Grid-Layout</li>
+    <li>13.Building-A-Navigation-Bar</li>
+    <li>14.Building-A-Deck-Of-Cards</li>
+    <li>15.Setting-Up-The-Layout-RangeSlider</li>
+    <li>16.Setting-Up-Layouut-Choropleth-Map</li>
+    <li>17.Setting-Up-The-Layout-DataTable</li>
+    <li>18.Adding-Callback-Update-The-Map</li>
+    <li>19.Adding-Callbacks-Update-The-DataTable</li>
+    <li>20.Setting-Up-The-Layout-Candlestick-DataTable</li>
+    <li>21.Setting-Up-The-Layout-Tabs</li>
+    <li>22.Setting-Up-The-Layout-Interval</li>
+    <li>23.Adding-Callbacks-Live-Update-The-DataTable</li>
+ </ul>
