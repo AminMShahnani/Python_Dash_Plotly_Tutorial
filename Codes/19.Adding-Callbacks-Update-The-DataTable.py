@@ -50,7 +50,7 @@ def update_map_graph(selected_years):
     Input('map-graph', 'clickData'),
     Input('year-slider', 'value')
 )
-def update_datatable(clicked_data, selected_years):
+def update_data_table(clicked_data, selected_years):
     if clicked_data is None:
         return []
     
